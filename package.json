@@ -1,0 +1,19 @@
+{
+  "name": "sample-co-koa",
+  "version": "0.0.0",
+  "description": "sample of co and koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LightSpeedC",
+  "license": "MIT",
+  "dependencies": {
+    "co": "~3.0.2",
+    "koa": "~0.3.0",
+    "co-monk": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1"
+  }
+}
